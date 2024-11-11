@@ -26,7 +26,7 @@ This project uses TensorFlow and OpenCV to detect and interpret sign language ge
 
 	pip install -r requirements.txt
 
-Usage
+## Usage
 
 Run app.py to start the GUI.
 
